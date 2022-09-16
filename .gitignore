@@ -1,0 +1,5 @@
+#IDE specific foders
+.idea
+
+#Compiled files
+target
